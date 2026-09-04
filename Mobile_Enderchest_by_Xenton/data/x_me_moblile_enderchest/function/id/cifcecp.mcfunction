@@ -9,3 +9,6 @@ function x_me_moblile_enderchest:m/cuuid
 function x_me_moblile_enderchest:id/cifcec with storage x_mobile_enderchest:player temp
 
 data remove storage x_mobile_enderchest:player temp
+
+## Debug
+return 1
