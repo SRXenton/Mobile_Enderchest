@@ -1,0 +1,60 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:stick",
+                    "weight": 1,
+                    "modifier": [
+                        {
+                            "type": "set_custom_data",
+                            "tag": {
+                                "tag": "x_me_mobile_enderchest.item.place"
+                            }
+                        },
+                        {
+                            "type": "set_components",
+                            "components": {
+                                "item_model": "minecraft:ender_chest"
+                            }
+                        },
+                        {
+                            "type": "minecraft:set_name",
+                            "name": {
+                                "text": "Call Ender Chest",
+                                "color": "#ffffff"
+                            }
+                        },
+                        {
+                            "type": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Take this item in your weapon mainhand",
+                                    "color": "#f6ff00"
+                                },
+                                {
+                                    "text": "right click, and the ender chest",
+                                    "color": "#f6ff00"
+                                },
+                                {
+                                    "text": "will be set in the front of you",
+                                    "color": "#f6ff00"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "type": "toggle_tooltips",
+                            "toggles": {
+                                "attribute_modifiers": false
+                            }
+                        }
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
