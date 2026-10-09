@@ -7,28 +7,28 @@
                     "type": "minecraft:item",
                     "name": "minecraft:stick",
                     "weight": 1,
-                    "functions": [
+                    "modifier": [
                         {
-                            "function": "set_custom_data",
+                            "type": "set_custom_data",
                             "tag": {
                                 "tag": "x_me_mobile_enderchest.item.place"
                             }
                         },
                         {
-                            "function": "set_components",
+                            "type": "set_components",
                             "components": {
                                 "item_model": "minecraft:ender_chest"
                             }
                         },
                         {
-                            "function": "minecraft:set_name",
+                            "type": "minecraft:set_name",
                             "name": {
                                 "text": "Call Ender Chest",
                                 "color": "#ffffff"
                             }
                         },
                         {
-                            "function": "minecraft:set_lore",
+                            "type": "minecraft:set_lore",
                             "lore": [
                                 {
                                     "text": "Take this item in your weapon mainhand",
@@ -46,7 +46,7 @@
                             "mode": "replace_all"
                         },
                         {
-                            "function": "toggle_tooltips",
+                            "type": "toggle_tooltips",
                             "toggles": {
                                 "attribute_modifiers": false
                             }
