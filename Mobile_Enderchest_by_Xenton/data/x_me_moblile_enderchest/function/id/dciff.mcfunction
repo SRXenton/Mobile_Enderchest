@@ -10,3 +10,6 @@ execute on target at @s run function x_me_moblile_enderchest:id/smff
 
 data remove entity @s attack
 data remove entity @s interaction
+
+## Debug:
+return 1

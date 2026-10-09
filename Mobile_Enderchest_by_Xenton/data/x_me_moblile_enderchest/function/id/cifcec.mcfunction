@@ -1,4 +1,4 @@
-### Call interaction for call EnderChest, prepare
+### Call interaction for call EnderChest
 ### Called id: id/cifcecp.mcfunction
 
 

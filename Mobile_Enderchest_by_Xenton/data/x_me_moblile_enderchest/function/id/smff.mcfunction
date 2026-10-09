@@ -12,3 +12,8 @@ execute rotated ~ 0.0 positioned ^ ^ ^2 align xz \
         if block ~ ~ ~1 #air \
             run function x_me_moblile_enderchest:id/smffa with storage x_mobile_enderchest:player temp
 
+data remove storage x_mobile_enderchest:player temp
+
+## Debug:
+return 1
+

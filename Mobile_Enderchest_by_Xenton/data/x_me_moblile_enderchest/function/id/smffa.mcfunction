@@ -7,3 +7,8 @@ $summon marker ~ ~ ~ {Tags:["x_me_marker","x_me_marker_$(UUID)"]}
 $execute at @s run summon marker ~ ~ ~ {Tags:["x_me_marker","x_me_marker_h_$(UUID)"]}
 
 scoreboard players set @s x.me.mobile.enderchest 1
+
+
+## Debug:
+return 1
+
