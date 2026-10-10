@@ -1,5 +1,5 @@
 # Mobile_Enderchest
-Minecraft Java Datapack
+Minecraft Java Datapack for Minecraft 26.3+
 
 Little Manual:
 
@@ -16,7 +16,7 @@ Little Manual:
 
 Changelog:
 
-Alpha first build:
+Alpha first build: Alpha 0.1
 - Add set and remove enderchest
 - Add on move, remove marker
 - Add on spawnposition, detect air and set marker
