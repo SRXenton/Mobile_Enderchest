@@ -1,6 +1,6 @@
 ### Tick Switch
 ### Called in: tick.json
-
+scoreboard players enable @a x.me.mobile.enderchest.quick_action.pages
 
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:stick", components:{"minecraft:custom_data":{tag:"x_me_mobile_enderchest.item.place"}}}}] at @s unless score @s x.me.mobile.enderchest matches 1 run function x_me_moblile_enderchest:id/cifcecp
@@ -14,3 +14,8 @@ execute as @e[type=minecraft:interaction, tag=x_me_call_enderchest] run function
 
 
 execute as @a[scores={x.me.mobile.enderchest=1}] at @s run function x_me_moblile_enderchest:id/kmp
+
+
+
+execute as @a[scores={x.me.mobile.enderchest.quick_action.pages=1}] run function x_me_moblile_enderchest:gi/f
+
