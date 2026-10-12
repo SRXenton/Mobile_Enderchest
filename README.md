@@ -5,8 +5,10 @@ Little Manual:
 
 - After installation:
 - - No inizialization needed, data pack have an auto inizialization
+- - World is to restart, not with /restart, reason: Quick_action JSONs load only when the world is fresh loaded
 
 - Give item for set ender chest: 
+- - Over Quick action and then button: give item
 - - /function x_me_moblile_enderchest:give_item
 
 - Run:
@@ -15,6 +17,10 @@ Little Manual:
 
 
 Changelog:
+Alpha 0.2
+- Add Quick Aktion
+- - give item
+- - Change scoreboard initialization
 
 Alpha first build: Alpha 0.1
 - Add set and remove enderchest
