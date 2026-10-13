@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:multi_action",
+    "title": "Mobile Ender-Chest",
+    "can_close_with_escape": true,
+    "after_action": "close",
+    "columns": 1,
+    "pause": false,
+    "body": [],
+    "actions": [
+        {
+            "label": "Give Item for place ender chest",
+            "width": 250,
+            "action": {
+                "type": "minecraft:run_command",
+                "command": "trigger x.me.mobile.enderchest.quick_action.pages set 1"
+            }
+        }
+    ]
+}
