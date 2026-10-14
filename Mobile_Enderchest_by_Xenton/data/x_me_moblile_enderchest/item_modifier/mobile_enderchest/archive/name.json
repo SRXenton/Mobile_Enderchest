@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:set_name",
+    "name": {
+        "text": "Call Ender Chest",
+        "italic": false,
+        "color": "#ffffff"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "type": "crafting_shaped",
+    "category": "misc",
+    "show_notification": true,
+    "key": {
+        "#": "minecraft:feather",
+        "X": "minecraft:ender_chest"
+    },
+    "pattern": [
+        "###",
+        "#X#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:stick",
+        "components": {
+            "custom_name": {
+                "text": "Call Ender Chest",
+                "italic": false,
+                "color": "#ffffff"
+            },
+            "item_model": "ender_chest",
+            "custom_data": {
+                "tag": "x_me_mobile_enderchest.item.place"
+            },
+            "minecraft:lore": [
+                {
+                    "text": "",
+                    "color": "#8b8b8b",
+                    "italic": false
+                },
+                {
+                    "text": "When in Main Hand:",
+                    "color": "#8b8b8b",
+                    "italic": false
+                },
+                {
+                    "text": " Right click, and",
+                    "color": "#008d13",
+                    "italic": false
+                },
+                {
+                    "text": " the ender chest",
+                    "color": "#008d13",
+                    "italic": false
+                },
+                {
+                    "text": " will be set in",
+                    "color": "#008d13",
+                    "italic": false
+                },
+                {
+                    "text": " the front of you",
+                    "color": "#008d13",
+                    "italic": false
+                }
+            ],
+            "tooltip_display": {
+                "hide_tooltip": false
+            }
+        }
+    }
+}

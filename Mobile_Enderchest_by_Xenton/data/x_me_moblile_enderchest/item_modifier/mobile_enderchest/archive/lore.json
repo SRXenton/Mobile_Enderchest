@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:set_lore",
+    "lore": [
+        {
+            "text": "",
+            "color": "#8b8b8b",
+            "italic": false
+        },
+        {
+            "text": "When in Main Hand:",
+            "color": "#8b8b8b",
+            "italic": false
+        },
+        {
+            "text": " Right click, and",
+            "color": "#008d13",
+            "italic": false
+        },
+        {
+            "text": " the ender chest",
+            "color": "#008d13",
+            "italic": false
+        },
+        {
+            "text": " will be set in",
+            "color": "#008d13",
+            "italic": false
+        },
+        {
+            "text": " the front of you",
+            "color": "#008d13",
+            "italic": false
+        }
+    ],
+    "mode": "replace_all"
+}
