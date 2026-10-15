@@ -17,5 +17,3 @@ execute as @a[scores={x.me.mobile.enderchest=1}] at @s run function x_me_moblile
 
 
 
-execute as @a[scores={x.me.mobile.enderchest.quick_action.pages=1}] run function x_me_moblile_enderchest:gi/f
-
