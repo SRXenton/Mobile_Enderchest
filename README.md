@@ -5,22 +5,23 @@ Main: Mobile_Enderchest_by_Xenton<br>
 Optional: Mobile_Enderchest_Quick_Action_by_Xenton<br>
 <br>
 <br>
-# Attention: Alpha Status !!!<br>
+# Attention: Beta Status !!!<br>
+All elements are implented.<br>
 It is possible, not all works correctly<br>
 <br>
 <br>
 # Little Manual (Main and Optional):<br>
 <br>
 <br>
-Installation:<br>
+Installation from Github:<br>
 - After download, unpack the zip file<br>
-- In the Mobile_Enderchest-Alpha_0.X, are two folders. Copy the folder Mobile_Enderchest_by_Xenton in your datapacs folder from your world.<br>
-- When you will have the quick action, than copy also the folder Mobile_Enderchest_Quick_Action_by_Xenton in your datapacs folder from your world.<br>
+- In the Mobile_Enderchest-Beta_0.X, are two folders. Copy the folder Mobile_Enderchest_by_Xenton in your datapacks folder from your world.<br>
+- When you will have the quick action, than copy also the folder Mobile_Enderchest_Quick_Action_by_Xenton in your datapacks folder from your world.<br>
 <br>
 <br>
 After installation:<br>
 - No inizialization needed, data pack have an auto inizialization<br>
-- World is to restart, not with /restart, reason: Quick_action JSONs load only when the world is fresh loaded<br>
+- World is to load new, not with /restart, reason: Some JSONs load only when the world is fresh loaded<br>
 <br>
 <br>
 Give item for set ender chest:<br>
@@ -34,7 +35,13 @@ How to use the Item:<br>
 - On move, the ender chest will be remove<br>
 <br>
 <br>
-# Changelog:<br>
+## Changelog:<br>
+<br>
+<br>
+First Beta Release: (Beta 0.1)<br>
+- Testing in 26.3 with folder, like download from Github<br>
+- Testing in 26.3 with zip file, like download from Mod Pages<br>
+- Update descriptions<br>
 <br>
 <br>
 Alpha 0.3<br>
