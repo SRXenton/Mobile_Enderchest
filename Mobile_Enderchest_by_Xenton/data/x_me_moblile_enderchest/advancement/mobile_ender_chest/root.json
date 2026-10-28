@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:totem_of_undying"
+        },
+        "title": "Mobile Ender Chest",
+        "description": {"text": "Test text"},
+        "background": "block/acacia_door_bottom",
+        "announce_to_chat": true,
+        "frame": "task",
+        "show_toast": true,
+        "hidden": false
+    },
+    "criteria": {
+        "conditions": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {"items": "feather"},{"items": "obsidian"}
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "x_me_moblile_enderchest:mobile_ender_chest"
+        ]
+    }
+}
