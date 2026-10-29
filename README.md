@@ -36,6 +36,8 @@ How to use the Item:<br>
 <br>
 <br>
 ## Changelog:<br>
+Beta 0.2<br>
+- change get recipe in crafting book, when get feather and enderchest.
 <br>
 <br>
 First Beta Release: (Beta 0.1)<br>
