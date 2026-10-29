@@ -1,0 +1,25 @@
+{
+    "criteria": {
+        "has_feather": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {"items": "minecraft:feather"}
+                ]
+            }
+        },
+        "has_obsidian": {
+            "trigger": "inventory_changed",
+            "conditions": {
+                "items": [
+                    {"items": "minecraft:ender_chest"}
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "x_me_moblile_enderchest:mobile_ender_chest"
+        ]
+    }
+}
