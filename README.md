@@ -5,17 +5,13 @@ Main: Mobile_Enderchest_by_Xenton<br>
 Optional: Mobile_Enderchest_Quick_Action_by_Xenton<br>
 <br>
 <br>
-# Attention: Beta Status !!!<br>
-All elements are implented.<br>
-It is possible, not all works correctly<br>
-<br>
 <br>
 # Little Manual (Main and Optional):<br>
 <br>
 <br>
 Installation from Github:<br>
 - After download, unpack the zip file<br>
-- In the Mobile_Enderchest-Beta_0.X, are two folders. Copy the folder Mobile_Enderchest_by_Xenton in your datapacks folder from your world.<br>
+- In the Mobile_Enderchest-V26.1.x, are two folders. Copy the folder Mobile_Enderchest_by_Xenton in your datapacks folder from your world.<br>
 - When you will have the quick action, than copy also the folder Mobile_Enderchest_Quick_Action_by_Xenton in your datapacks folder from your world.<br>
 <br>
 <br>
@@ -36,6 +32,9 @@ How to use the Item:<br>
 <br>
 <br>
 ## Changelog:<br>
+V1.0: Release Year 26, Version 1.0: V26.1.0<br>
+- Remove Dead and test code <br>
+<br>
 Beta 0.2<br>
 - change get recipe in crafting book, when get feather and enderchest.
 <br>

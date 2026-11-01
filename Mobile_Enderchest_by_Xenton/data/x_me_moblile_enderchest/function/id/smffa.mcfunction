@@ -1,6 +1,5 @@
 ### Summon Marker First File action
 ### Called in: id/dciff.mcfunction
-# execute rotated ~ 0.0 run summon marker ^ ^ ^3 {Tags:["x_me_marker"]}
 
 $summon marker ~ ~ ~ {Tags:["x_me_marker","x_me_marker_$(UUID)"]}
 
